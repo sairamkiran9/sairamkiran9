@@ -1,6 +1,6 @@
 # Hello and Welcome! 🚀
 
-<img src="https://github.com/user-attachments/assets/4e824639-36aa-4c4e-b6a1-1dd178099e4f" alt="image" width="650" height="300">
+<img src="https://github.com/user-attachments/assets/4e824639-36aa-4c4e-b6a1-1dd178099e4f" alt="image" width="700" height="300">
 
 ## About Me
 
