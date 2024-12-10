@@ -8,7 +8,7 @@
 - 🎓 I graduated with my degree in Computer Science from Florida State University in 2024.
 - 😄 When I'm not coding, you’ll likely find me cooking, dancing, or working on Adobe illustrations!
 - 🎧 I’m a podcast enthusiast and enjoy a wide range of topics such as tech, entrepreneurship, philosophy, and music.
-- 🌱 Currently, I’m preparing for Kubernetes certification, and I aim to complete it by the end of the year.
+- 🌱 Currently, I’m exploring [Amazon Bedrock Agents](https://catalog.workshops.aws/agents-for-amazon-bedrock/en-US), and I aim to complete it by the end of the year.
 - 🕺🏻 Fun fact: I challenge myself to learn a new choreography every week!
 - 🙏🏻 Myth: I believe in the philosophy of Bruce Lee [Be like Water](https://www.youtube.com/watch?v=cJMwBwFj5nQ) This mindset helps me adapt, innovate, and keep pushing forward.
 
