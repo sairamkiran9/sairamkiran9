@@ -1,15 +1,12 @@
 # Hello and Welcome! 🚀
 
-<img src="https://github.com/user-attachments/assets/4e824639-36aa-4c4e-b6a1-1dd178099e4f" alt="image" width="700" height="300">
-
 ## About Me
 
 - 💻 I work as a software engineer at [@FSU Facilities](https://www.linkedin.com/company/fsu-facilities/), specializing in Full Stack Web, Data Engineering, and Machine Learning.
 - 🎓 I graduated with my degree in Computer Science from Florida State University in 2024.
 - 😄 When I'm not coding, you’ll likely find me cooking, dancing, or working on Adobe illustrations!
 - 🎧 I’m a podcast enthusiast and enjoy a wide range of topics such as tech, entrepreneurship, philosophy, and music.
-- 🌱 Currently, I’m exploring [Amazon Bedrock Agents](https://catalog.workshops.aws/agents-for-amazon-bedrock/en-US), and I aim to complete it by the end of the year.
-- 🕺🏻 Fun fact: I challenge myself to learn a new choreography every week!
+- 🕺🏻 Fun fact: I love cooking and i'm a foodie :)
 - 🙏🏻 Myth: I believe in the philosophy of Bruce Lee [Be like Water](https://www.youtube.com/watch?v=cJMwBwFj5nQ) This mindset helps me adapt, innovate, and keep pushing forward.
 
 ## More to come soon
