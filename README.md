@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 I work as a software engineer at [@FSU Facilities](https://www.linkedin.com/company/fsu-facilities/), specializing in Full Stack Web, Data Engineering, and Machine Learning.
+- 💻 I specializing in Full Stack Web, Data Engineering, and Machine Learning.
 - 🎓 I graduated with my degree in Computer Science from Florida State University in 2024.
 - 😄 When I'm not coding, you’ll likely find me cooking, dancing, or working on Adobe illustrations!
 - 🎧 I’m a podcast enthusiast and enjoy a wide range of topics such as tech, entrepreneurship, philosophy, and music.
