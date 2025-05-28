@@ -3,7 +3,7 @@
 ## About Me
 
 - 💻 I specializing in Full Stack Web, Data Engineering, and Machine Learning.
-- 🎓 I graduated with my degree in Computer Science from Florida State University in 2024.
+- 🎓 I graduated with my degree in Computer Science from Florida State University.
 - 😄 When I'm not coding, you’ll likely find me cooking, dancing, or working on Adobe illustrations!
 - 🎧 I’m a podcast enthusiast and enjoy a wide range of topics such as tech, entrepreneurship, philosophy, and music.
 - 🕺🏻 Fun fact: I love cooking and i'm a foodie :)
