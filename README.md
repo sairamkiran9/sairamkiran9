@@ -3,8 +3,11 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 AI Engineer with deep expertise in **distributed systems integration, event-driven architectures, and production-grade ML/AI platforms**.  
-- 🎓 **CS Graduate** from *Florida State University.*    
+- 🔭 AI Engineer with deep expertise in
+  - **distributed systems**
+  - **event-driven architectures**
+  - **production-grade ML/AI platforms**
+- 🎓 CS Graduate from *Florida State University.*    
 - 💬 **Philosophy I live by:** _"Be like water." — Bruce Lee_  
 - 🧑‍🍳 When I'm not coding, you'll find me **cooking** or **dancing**.  
 - 🎉 **Fun fact:** I love organizing and handling events. If I weren't a developer, I'd probably be an event planner!
