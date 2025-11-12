@@ -11,6 +11,7 @@
 - 💬 **Philosophy I live by:** _"Be like water." — Bruce Lee_  
 - 🧑‍🍳 When I'm not coding, you'll find me **cooking** or **dancing**.  
 - 🎉 **Fun fact:** I love organizing and handling events. If I weren't a developer, I'd probably be an event planner!
+- - 🚀 **Currently obsessed with:** Learning **Go** and building scalable backend systems with it!
 
 ---
 
