@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 AI Engineer with deep expertise in
+- 🔭 Software Engineer with deep expertise in
   - **distributed systems**
   - **event-driven architectures**
   - **production-grade ML/AI platforms**
