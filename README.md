@@ -22,7 +22,7 @@ Real-time **agentic code suggestion platform** built using the **MCP protocol**.
   
 Goes beyond static design chatbots — it provides **in-canvas design/code recommendations**, similar to *GitHub Copilot for design workflows*.
 
-#### 🪞 simple suppers-v2](#)
+#### 🪞 simple suppers-v2](https://github.com/sairamkiran9/simple-suppers-v2)
 An AI-based **psychiatrist assistant** inspired by *simple suppers-v2* — built on **TypeScript** and **agentic automation**.
   
 It uses rule-based prompts and reflective loops to simulate behavior-change therapy.
