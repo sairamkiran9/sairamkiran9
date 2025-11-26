@@ -22,8 +22,8 @@ Real-time **agentic code suggestion platform** built using the **MCP protocol**.
   
 Goes beyond static design chatbots — it provides **in-canvas design/code recommendations**, similar to *GitHub Copilot for design workflows*.
 
-#### 🪞 [Atomic Habits Agent](#)
-An AI-based **psychiatrist assistant** inspired by *Atomic Habits* — built on **TypeScript** and **agentic automation**.
+#### 🪞 simple suppers-v2](#)
+An AI-based **psychiatrist assistant** inspired by *simple suppers-v2* — built on **TypeScript** and **agentic automation**.
   
 It uses rule-based prompts and reflective loops to simulate behavior-change therapy.
 
